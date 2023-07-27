@@ -17,7 +17,7 @@ Programy, systemy i skrypty. Może brzmieć przerażająco, ale nie ma co się b
 > Tutaj będą czyste wyjaśnienia, głównie dla ciekawskich. Na przykład: Czy wiedziałęś że zwierzęciem narodowym Szkocji jest jednorożec?
 
 {: .info }
-> Te będą zawierać ważniejsze informacje albo odnośniki do różnych [podstron](cotyturobisz.mc).
+> Te będą zawierać ważniejsze informacje albo odnośniki do różnych [podstron](cotyturobisz.md).
 
 {: .warning }
 > Czerwonych natomiast sugeruje nie ignorować.
