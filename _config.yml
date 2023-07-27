@@ -1,5 +1,5 @@
-title: HowToFormat
-description: Tutorial dla osób formatujących PC z windowsem
+title: Jak to format?
+description: Tutorial dla osób czyszczących PC z windowsem
 theme: just-the-docs
 
 url: https://wiki.fireword.xyz
@@ -23,3 +23,6 @@ callouts:
   note:
     title: Wyjaśnienie
     color: blue
+  info:
+    title: Informacja
+    color: yellow
