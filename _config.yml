@@ -4,6 +4,8 @@ theme: just-the-docs
 
 url: https://wiki.fireword.xyz
 
+heading_anchors: true
+
 aux_links:
   "Revision OS":
     - "https://www.revi.cc/revios/download"
@@ -13,3 +15,11 @@ aux_links:
     - "https://www.nvidia.com/Download/index.aspx?lang=en-us"
   "Intel Drivers":
     - "https://downloadcenter.intel.com/"
+
+callouts:
+  warning:
+    title: Uwaga
+    color: red
+  note:
+    title: Wyjaśnienie
+    color: blue
