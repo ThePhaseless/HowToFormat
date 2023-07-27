@@ -5,7 +5,9 @@ nav_order: 2
 has_children: true
 ---
 
-# Przygotowanie programów i systemu
+## Przygotowanie programów i systemu
+
+#### Jak, co, kto, z kim, gdzie, jak, kiedy i w ogóle?
 
 Programy, systemy i skrypty. Może brzmieć przerażająco, ale nie ma co się bać. Każdy kiedyś przez to przechodził. Jeżeli jednak to jednak twój komputer ma się bać Ciebie, a nie ty jego, to zachęcam do czytania wyjaśnień co właściwie będziemy robili i co jeszcze jesteśmy w stanie zrobić dodatkowo.
 
@@ -20,9 +22,9 @@ Programy, systemy i skrypty. Może brzmieć przerażająco, ale nie ma co się b
 {: .warning }
 > Czerwonych natomiast sugeruje nie ignorować.
 
-Koniec tego flexowania kolorowymi kwadratami. Wracamy do pracy. Na razie tylko sprawdzimy jakie mamy opcje, pobieraniem zajmiemy się później.
+Koniec tego flexowania kolorowymi prostokątami. Wracamy do pracy. Na razie tylko sprawdzimy jakie mamy opcje, pobieraniem zajmiemy się później.
 
-## Pendrive
+#### Ventoy moment
 
 Dla spójności, wygody oraz kompatybilności z linuxem, będziemy używać [Ventoy'a](https://www.ventoy.net/en/index.html).
 
@@ -30,6 +32,8 @@ Dla spójności, wygody oraz kompatybilności z linuxem, będziemy używać [Ven
 > Czym jest ten Ventoy?
 >
 > A no jest to "mini system", który można zainstalować w tym przypadku na pendrive'ie, który umożliwia uruchamianie ***prawie*** wszystkich instalatorów systemów. Wyjaśnienie dlaczego używamy akurat tego [tutaj](ventoy.md).
+
+#### System
 
 Teraz musimy wybrać co właściwie będziemy instalować. Do wyboru mamy:
 
@@ -50,7 +54,9 @@ Odróżnia się je sposobem instalacji. Custom ISO jest już instaluje już zmod
 
 *Więcej informacji się nie dało? Tyle napisałeś a ja dalej nie wiem który powinienem wziąć!*  
 
-Na ratunek przychodzi moja **super** tableka!
+Na ratunek przychodzi
+
+#### Moja **super** tableka
 
 | Typ         | Zalety                                                                                                                                                                                    | Wady                                                                                                                                                                                                                                     |
 |------------ |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

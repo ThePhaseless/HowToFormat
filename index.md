@@ -1,13 +1,14 @@
 ---
-title: Gdzieś trzeba zacząć
+title: Pora zacząć
+nav_order: 1
 layout: home
 ---
 
-### Wstęp
+# Jak zrobić format komputera?
 
-Witaj, jesteś tu prawdodobnie, bo postanowiłeś **w końcu** zrobić twardy reset komputera/laptopa. Jesteś w dobrym miejscu! Ten poradnik pomoże Ci przywrócić *dawny blask* twojego sprzętu (a przynajmniej przybliży go do tego). Życzę przyjemnej podróży.
+Witaj, jesteś tu prawdodobnie, bo postanowiłeś **w końcu** zrobić twardy reset komputera/laptopa. Jesteś w dobrym miejscu! Ten poradnik pomoże Ci przywrócić _dawny blask_ twojego sprzętu (a przynajmniej przybliży go do tego). Życzę przyjemnej podróży.
 
-### Ale od czego zacząć?
+## Od czego zacząć?
 
 Sprawdźmy pierwszo sprzęt. Będziesz potrzebować:
 
@@ -17,4 +18,4 @@ Sprawdźmy pierwszo sprzęt. Będziesz potrzebować:
 - Dostęp do internetu
 - ~~Kalkulator do liczenia wyrwanych włosów~~
 
-Gdy już jesteś przygotowany sprzętowo, [wybierz swoją stronę mocy](software/index.md).
+Gdy masz już cały sprzęt, pora na [jakieś programy](software).
