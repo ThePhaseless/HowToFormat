@@ -3,3 +3,13 @@ description: Tutorial dla osób formatujących PC z windowsem
 theme: just-the-docs
 
 url: https://wiki.fireword.xyz
+
+aux_links:
+  "Revision OS":
+    - "https://www.revi.cc/revios/download"
+  "AMD Drivers":
+    - "https://www.amd.com/en/support"
+  "Nvidia Drivers":
+    - "https://www.nvidia.com/Download/index.aspx?lang=en-us"
+  "Intel Drivers":
+    - "https://downloadcenter.intel.com/"
