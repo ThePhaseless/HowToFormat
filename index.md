@@ -6,16 +6,24 @@ layout: home
 
 # Jak zrobić format komputera?
 
-Witaj, jesteś tu prawdodobnie, bo postanowiłeś **w końcu** zrobić twardy reset komputera/laptopa. Jesteś w dobrym miejscu! Ten poradnik pomoże Ci przywrócić _dawny blask_ twojego sprzętu (a przynajmniej przybliży go do tego). Życzę przyjemnej podróży.
+Witaj, jesteś tu prawdodobnie, bo postanowiłeś **w końcu** zrobić twardy reset komputera/laptopa. Jesteś w dobrym miejscu! Ten poradnik pomoże Ci przywrócić _dawny blask_ twojego sprzętu. Życzę przyjemnej podróży.
 
-## Od czego zacząć?
+## Jak właściwie mam to czytać?
+Tworzyłem ten poradnik z myślą, że osoba czytająca ten poradnik nie jest pod groźbą śmierci i ma na to więcej czasu niż totalne minimum. Wiem jednak, że nie wszyscy są zainteresowani klocami tekstu, więc podzieliłem je na kategorie:
 
-Sprawdźmy pierwszo sprzęt. Będziesz potrzebować:
+{: .note-title }
+> Ciekawostka
+>
+> Tutaj będą czyste wyjaśnienia, głównie dla ciekawskich. Na przykład: Czy wiedziałęś że zwierzęciem narodowym Szkocji jest jednorożec?
 
-- Pendrive/dysk zewnętrzny (minimum 8 GB)
-- Komputera który będzie czyszczony
-- Sprawnego komputera (jeżeli wyżej wymieniony jest sprawny, to też się nada)
-- Dostęp do internetu
-- ~~Kalkulator do liczenia wyrwanych włosów~~
+{: .info }
+> Te będą zawierać ważniejsze informacje albo odnośniki do różnych [podstron](/cotyturobisz).
 
-Gdy masz już cały sprzęt, pora na [jakieś programy](software).
+{: .warning }
+> Czerwonych natomiast sugeruje nie ignorować.
+
+Zwykłu tekst zawiera notmiast... zwykły tekst. Byłoby mi miło jakbyś to też czytał/a.
+## Co, jak, gdzie i kiedy?
+
+Koniec tego flexowania kolorowymi prostokątami. [Zaczynamy](przygotowanie)
+

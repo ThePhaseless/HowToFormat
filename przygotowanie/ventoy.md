@@ -2,14 +2,14 @@
 layout: default
 title: Ventoy
 parent: Przygotowanie
-nav_order: 2
+nav_order: 3
 ---
 
-## Pobieranie i instalowanie Ventoy'a
+# Pobieranie i instalowanie Ventoy'a
 
 A zatem wiadomomo już co, następne pytanie to
 
-### Jak?
+## Jak?
 
 Pierwszo potrzebujemy czegoś, z czego uruchomimy nasz instalator. Wchodzimy więc na [stronę pobierania]("https://github.com/ventoy/Ventoy/releases") i w zależności od systemu sprawnego komputera pobieramy:
 

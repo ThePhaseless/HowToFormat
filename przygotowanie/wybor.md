@@ -2,33 +2,14 @@
 layout: default
 title: Dobiór oprogramowania
 parent: Przygotowanie
-nav_order: 1
+nav_order: 2
 ---
 
-## Przygotowanie programów i systemu
-
-### Co, jak, gdzie i kiedy?
+# Przygotowanie programów i systemu
 
 Programy, systemy i skrypty. Może brzmieć przerażająco, ale nie ma co się bać. Każdy kiedyś przez to przechodził. Jeżeli jednak to jednak twój komputer ma się bać Ciebie, a nie ty jego, to zachęcam do czytania wyjaśnień co właściwie będziemy robili i co jeszcze jesteśmy w stanie zrobić dodatkowo.
 
-{: .note-title }
-> Ciekawostka
->
-> Tutaj będą czyste wyjaśnienia, głównie dla ciekawskich. Na przykład: Czy wiedziałęś że zwierzęciem narodowym Szkocji jest jednorożec?
-
-{: .info }
-> Te będą zawierać ważniejsze informacje albo odnośniki do różnych [podstron](/cotyturobisz).
-
-{: .warning }
-> Czerwonych natomiast sugeruje nie ignorować.
-
-Koniec tego flexowania kolorowymi prostokątami. Wracamy do pracy. Na razie tylko sprawdzimy jakie mamy opcje, pobieraniem zajmiemy się później.
-
-Idźmy więc zgodnie z kolejnością zadanych pytań.
-
-### Co?
-
-#### Ventoy
+### Ventoy
 
 Dla spójności, wygody oraz kompatybilności z linuxem, będziemy używać [Ventoy'a](https://www.ventoy.net/en/index.html).
 
@@ -37,7 +18,7 @@ Dla spójności, wygody oraz kompatybilności z linuxem, będziemy używać [Ven
 >
 > A no jest to "mini system", który można zainstalować w tym przypadku na pendrive'ie, który umożliwia uruchamianie ***prawie*** wszystkich instalatorów systemów. Wyjaśnienie dlaczego używamy akurat tego [tutaj](/info/ventoy).
 
-#### Windows
+### Windows
 
 Teraz musimy wybrać co właściwie będziemy instalować. Do wyboru mamy:
 
@@ -68,7 +49,7 @@ Na ratunek przychodzi
 | Playbook   | - Częstotliwość Aktualizacji<br>- Wydajność<br>- Umiarkowana Prywatność<br>- Mała ilość domyślnych programów<br>- Lista modyfikacji (i kod źródłowy) jest dostępny online (open-source) | - Długość instalacji<br>- Możliwe problemy z większymi aktualizacji Windows'a<br>- Modyfikowanie systemu<br>- Część telemetrii pozostaje włączona                                                                                       |
 | Custom ISO | - Wzorowa wydajność<br>- Możliwie maksymalna prywatność<br>- Minimalna ilość domyślnych programów<br>- Mała wielkość systemu<br>- Szybkość przygotowania                                | - Bezpieczeństwo (więcej poniżej)<br>- Możliwe trudności w znalezieniu odpowiedniego<br>- W zależności od wyboru, możliwa niestabilność na niektórych komputerach<br>- Częstotliwość aktualizacji (Samego systemu, nie antywirusa itp.) |
 
-#### Opcjonalne: Linux na ratunek dla straconych plików!
+### Opcjonalne: Linux na ratunek dla straconych plików!
 
 Wracasz sobie po ciężkim dniu do domu, siadasz przed komputer żeby przejrzeć jedyną kopię zdjęć z tej jednej wycieczki, włączasz go a to nagle... ***nic***. Nie daje znaku życia/sam się restartuje/zawiesza się w losowym momencie. Na szczęście wielkie głowy tworzące wszelakie linuxy umożliwiają uruchomienie go bez żadnej instalacji. Magia, wiem. Co prawda wszelkie zmiany zostaną stracone po zwykłym restarcie komputera, ale dla awaryjnego wrzucenia zdjęć do chmury albo innego dysku czy pendrive'a, będzie idealny.
 
