@@ -2,6 +2,7 @@
 layout: default
 title: Custom ISO
 parent: Windows
+grand_parent: Przygotowanie
 nav_order: 2
 ---
 ## Custom ISO
