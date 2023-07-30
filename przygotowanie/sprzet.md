@@ -7,7 +7,7 @@ nav_order: 1
 
 # Programy
 
-Będziemy iść zgodnie z kolejnością zadanych pytań. Nie żeby to miało jakieś znaczenie.
+Będziemy iść zgodnie z kolejnością zadanych pytań ze wstępu. Nie żeby to miało jakieś znaczenie.
 
 ## Co? ~~pstro~~
 
