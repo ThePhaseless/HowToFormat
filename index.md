@@ -22,7 +22,7 @@ Tworzyłem ten poradnik z myślą, że osoba czytająca ten poradnik nie jest po
 {: .warning }
 > Czerwonych natomiast sugeruje nie ignorować.
 
-Zwykłu tekst zawiera notmiast... zwykły tekst. Byłoby mi miło jakbyś to też czytał/a.
+Zwykły tekst zawiera natomiast... zwykły tekst. Byłoby miło jakbyś to też czytał/a.
 ## Co, jak, gdzie i kiedy?
 
 Koniec tego flexowania się kolorowymi prostokątami. [Zaczynamy](przygotowanie)
