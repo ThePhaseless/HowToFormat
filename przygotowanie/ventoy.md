@@ -26,6 +26,9 @@ Upewniamy się, że pendrive jest podłączony.
 
 Wchodzimy w nowo utworzony folder i uruchamiamy `Ventoy2Disk.exe`. W liście `Device` wybieramy naszego pendrive'a.
 
+{: .info }
+Jeżeli będziemy instalować to na nowoczesnym komputerze, zalecane jest zaznaczyć: `Option -> Partition Style -> `~~`Chat`~~`GPT` 
+
 {: .warning }
 Następny krok spowoduje usunięcie plików z pendrive'a **nieodwracalnie**. Upewnij się, że masz kopię zapasową plików które chcesz zachować.
 

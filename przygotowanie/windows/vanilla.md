@@ -28,11 +28,25 @@ Gdy wreszcie łaskawie zostaniemy zapytani, co właściwie chcemy zrobić, wybie
 
 Wybieramy język, zostawiamy jednak edycje oraz architekture (`x64`). 
 
-Po kliknięciu dalej, wybieramy 2. opcję, czyli *plik ISO*, wybieramy gdzie chcemy go pobrać (na przykład do dysku `Ventoy` jeżeli zależy nam na miejscu) i czekamy aż wszystko się pobierze.
-Po pobraniu możemy zamknąć instalator i wrzucić plik na poprzednio utworzoną partycję, jeżeli nie zrobiliśmy tego przy pobieraniu.
+Po kliknięciu dalej, wybieramy 2. opcję, czyli *plik ISO*, wybieramy gdzie chcemy go pobrać (na przykład do dysku `Ventoy` jeżeli zależy nam na miejscu) i czekamy aż wszystko się pobierze. Polecam **porządnie** uzbroić się w cierpliwość.
 
-Możesz teraz przejść na [koniec tej strony](#Kolejny-krok).
+Już? Super, idziemy [na koniec](#po-pobraniu).
 
 #### Windows 11
 
 Tutaj będzie trochę łatwiej. Wchodzimy na wyżej podaną stronę, zjeżdżamy do jakże wygodnej części *Pobieranie obrazu dysku (ISO) systemu Windows 11* i wybieramy w polu *Wybierz Pobierz*, *Windows 11 (multi-edition ISO)*
+
+Teraz wybieramy język nowego systemu i zatwiedzamy.
+
+Po chwili powinien pojawić się przycisk: *64-bit Pobierz*
+![Pobieranie Windows 11](win11.png)
+
+Cierpliwie czekamy aż się pobierze i przechodzimy [niżej](#po-pobraniu).
+
+### Po pobraniu
+
+Teraz możemy wrzucić plik na poprzednio utworzoną partycję `Ventoy`, jeżeli nie zrobiliśmy tego przy pobieraniu.
+
+{: .info }
+To dobry moment, żeby zrobić kopię zapasową lub upewnić się, że wszystko zostało zabezpieczone a dla osób z potrzebą odzyskania plików z uszkodzonego systemu zachęcam do [pobrania Linuxa](linux)
+
