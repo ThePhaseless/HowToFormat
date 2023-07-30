@@ -7,7 +7,7 @@ nav_order: 2
 
 # Przygotowanie programów i systemu
 
-Programy, systemy i skrypty. Może brzmieć przerażająco, ale nie ma co się bać. Każdy kiedyś przez to przechodził. Jeżeli jednak to jednak twój komputer ma się bać Ciebie, a nie ty jego, to zachęcam do czytania wyjaśnień co właściwie będziemy robili i co jeszcze jesteśmy w stanie zrobić dodatkowo.
+Programy, systemy i skrypty. Może brzmieć przerażająco, ale jeżeli jednak to twój komputer ma się bać Ciebie, a nie na odwrót, to zachęcam do czytania wyjaśnień co właściwie będziemy robili i ewentualnie co jeszcze jesteśmy w stanie zrobić dodatkowo.
 
 ### Ventoy
 
