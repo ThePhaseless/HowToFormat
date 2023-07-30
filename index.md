@@ -14,7 +14,7 @@ Tworzyłem ten poradnik z myślą, że osoba czytająca ten poradnik nie jest po
 {: .note-title }
 > Ciekawostka
 >
-> Tutaj będą czyste wyjaśnienia, głównie dla ciekawskich. Na przykład: Czy wiedziałęś że zwierzęciem narodowym Szkocji jest jednorożec?
+> Tutaj będą czyste wyjaśnienia, głównie dla ciekawskich. Na przykład: Czy wiedziałeś że zwierzęciem narodowym Szkocji jest jednorożec?
 
 {: .info }
 > Te będą zawierać ważniejsze informacje albo odnośniki do różnych [podstron](/cotyturobisz).
