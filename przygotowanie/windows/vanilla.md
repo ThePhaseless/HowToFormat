@@ -48,5 +48,5 @@ Cierpliwie czekamy aż się pobierze i przechodzimy [niżej](#po-pobraniu).
 Teraz możemy wrzucić plik na poprzednio utworzoną partycję `Ventoy`, jeżeli nie zrobiliśmy tego przy pobieraniu.
 
 {: .info }
-To dobry moment, żeby zrobić kopię zapasową lub upewnić się, że wszystko zostało zabezpieczone a dla osób z potrzebą odzyskania plików z uszkodzonego systemu zachęcam do [pobrania Linuxa](linux)
+To dobry moment, żeby zrobić kopię zapasową lub upewnić się, że wszystko zostało zabezpieczone a dla osób z potrzebą odzyskania plików z uszkodzonego systemu zachęcam do [pobrania Linuxa](../linux)
 
