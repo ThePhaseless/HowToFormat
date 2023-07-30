@@ -7,20 +7,20 @@ nav_order: 3
 
 # Pobieranie i instalowanie Ventoy'a
 
-A zatem wiadomomo już co, następne pytanie to
+A zatem wiadomo już *co*, następne pytanie to
 
 ## Jak?
 
-Pierwszo potrzebujemy czegoś, z czego uruchomimy nasz instalator. Wchodzimy więc na [stronę pobierania]("https://github.com/ventoy/Ventoy/releases") i w zależności od systemu sprawnego komputera pobieramy:
+Najpierw potrzebujemy czegoś, z czego uruchomimy nasz instalator. Wchodzimy więc na [stronę pobierania]("https://github.com/ventoy/Ventoy/releases") i w zależności od systemu sprawnego komputera pobieramy:
 
-- Windows: `ventoy-*losowe numberki*-windows.zip`
-- Linux: `ventoy-*losowe numberki*-linux.tar.gz`
-- Pozostałe: `ventoy-*losowe numberki*-livecd.iso`
+- Windows: `ventoy-*losowe numerki*-windows.zip`
+- Linux: `ventoy-*losowe numerki*-linux.tar.gz`
+- Pozostałe: `ventoy-*losowe numerki*-livecd.iso`
 
 {: .info }
-W tej wersji poradnika (nie znaczy to, że będą inne, ale to też nie jest wykluczone) założę, że użwać będziemy Windowsa.
+W tej wersji poradnika (nie znaczy to, że będą inne, ale to też nie jest wykluczone) założę, że używać będziemy Windowsa.
 
-Pobrany plik wypakowywujemy (prawy przycisk myszy -> wypakuj/exctract). Upewnij się, że pliki zostały wypakowywane do oddzielnego folderu (np. ventoy-1.0.94-windows), a nie bezpośrednio w folderze pobranych.
+Pobrany plik wypakowywujemy (prawy przycisk myszy -> wypakuj/extract). Upewnij się, że pliki zostały wypakowywane do oddzielnego folderu (np. ventoy-1.0.94-windows), a nie bezpośrednio w folderze pobranych.
 
 Upewniamy się, że pendrive jest podłączony.
 
@@ -31,6 +31,6 @@ Następny krok spowoduje usunięcie plików z pendrive'a **nieodwracalnie**. Upe
 
 Pozostało nacisnąć `Install`, potwierdzić ~~sprzedaż duszy~~ 2 razy i patrzeć jak wszystko dzieje się za nas.
 
-Gotowe! Powinniśmy teraz widzieć nowy dysk `Ventoy`.
+Gotowe! Powinniśmy teraz widzieć nowy dysk o nazwie `Ventoy`.
 
 [Pora na system(y)](windows)
