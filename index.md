@@ -25,5 +25,5 @@ Tworzyłem ten poradnik z myślą, że osoba czytająca ten poradnik nie jest po
 Zwykłu tekst zawiera notmiast... zwykły tekst. Byłoby mi miło jakbyś to też czytał/a.
 ## Co, jak, gdzie i kiedy?
 
-Koniec tego flexowania kolorowymi prostokątami. [Zaczynamy](przygotowanie)
+Koniec tego flexowania się kolorowymi prostokątami. [Zaczynamy](przygotowanie)
 
