@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Vanilla
+grand_parent: Przygotowanie
 parent: Windows
 nav_order: 1
 ---
@@ -11,8 +12,8 @@ Bezpieczna, prosta ale też i czasami monotonna droga. Jak Pan Microsoft chciał
 ### Pobieranie
 
 Proces cholernie prosty. Wchodzimy w ten link:
-- Windows 10: https://www.microsoft.com/pl-pl/software-download/windows10
-- Windows 11: https://www.microsoft.com/pl-pl/software-download/windows11
+- Windows 10: [https://www.microsoft.com/pl-pl/software-download/windows10](https://www.microsoft.com/pl-pl/software-download/windows10)
+- Windows 11: [https://www.microsoft.com/pl-pl/software-download/windows11](https://www.microsoft.com/pl-pl/software-download/windows11)
 
 #### Windows 10
 Pobieramy narzędzie używając... *Pobierz narzędzie*. Nie kliknij tylko przez przypadek guzika *Zaktualizuj teraz*, bo to nam aktualnie kompletnie nie potrzebne.
