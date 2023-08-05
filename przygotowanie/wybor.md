@@ -57,6 +57,7 @@ Custom ISO uważane są za kontrowersyjne z jednego prostego powodu. Nie wiadomo
 
 {: .note}
 > Z tego właśnie konkretnego powodu powstały Playbook'i. Są bardziej ograniczone jeżeli chodzi o możliwości, ale za to możemy sprawdzić co dokładnie będzie działo się w naszym systemie i często możemy też personalizować swoje ustawienia.
+
 ### Opcjonalne: Linux na ratunek dla straconych plików!
 
 Wracasz sobie po ciężkim dniu do domu, siadasz przed komputer żeby przejrzeć jedyną kopię zdjęć z tej jednej wycieczki, włączasz go a to nagle... ***nic***. Nie daje znaku życia/sam się restartuje/zawiesza się w losowym momencie. Na szczęście wielkie głowy tworzące wszelakie linux`y umożliwiają uruchomienie go bez żadnej instalacji. Magia, wiem. Co prawda wszelkie zmiany zostaną stracone po zwykłym restarcie komputera, ale dla awaryjnego wrzucenia zdjęć do chmury albo innego dysku czy pendrive'a, będzie idealny.
