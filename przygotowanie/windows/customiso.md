@@ -15,3 +15,14 @@ Na górze ekranu powinieneś widzieć zakładki. Pierwsza z nich przeniesie Cię
 
 Jak już się do niej dostaniesz, po najechaniu na ReviOS, kliknij w zakładkę "Downloads".
 
+Teraz w zależności od możliwości twojego komputera, wybierz wersję:
+- **Windows 10** - dla starszych i słabszych komputerów
+- **Windows 11** - dla nowszych komputerów oraz dla osób chcące najnowsze funkcje
+
+Wchodzimy w zakładkę **Download** i wybieramy hosting obrazu (najlepiej `MEGA`)
+
+Używając wybranej strony, pobieramy obraz i wrzucamy go do nowego dysku `Ventoy`.
+
+{: .info }
+To dobry moment, żeby zrobić kopię zapasową lub upewnić się, że wszystko zostało zabezpieczone a dla osób z potrzebą odzyskania plików z uszkodzonego systemu zachęcam do [pobrania Linux'a](../linux)
+

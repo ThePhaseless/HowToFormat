@@ -11,7 +11,7 @@ Będziemy iść zgodnie z kolejnością zadanych pytań ze wstępu. Nie żeby to
 
 ## Co? ~~pstro~~
 
-Sprawdźmy pierwszo sprzęt. Będziesz potrzebować:
+Sprawdźmy wpierw sprzęt. Będziesz potrzebować:
 
 - Pendrive/dysk zewnętrzny (minimum 8 GB)
 - Komputera który będzie czyszczony
