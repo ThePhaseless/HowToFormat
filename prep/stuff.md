@@ -19,8 +19,8 @@ Dla spójności, wygody oraz kompatybilności z linux`em, będziemy używać [Ve
 >
 > A no jest to "pseudo system", który można zainstalować na nośnikach (w tym przypadku na pendrive'ie), umożliwiający uruchamianie ***prawie*** wszystkich plików `.iso` (w tym instalatorów systemów). Wyjaśnienie dlaczego używamy akurat tego [tutaj](/info/ventoy).
 
-{: info}
-Pliki `.iso` to tak zwane *obrazy dysków*. Z obrazami jednak nie ma za wiele wspólnego. W dużym skrócie powstały na potrzeby kopiowania DVD/CD do plików (nie tylko tych z systemami), żeby potem *włożyć je* wirtualnie, ale z czasem, łatwiej było pobrać taki plik niż znaleźć go wśród sterty płyt. Dla wygody, do dziś nie zmieniono tego rozszerzenia.
+{: info }
+> Pliki `.iso` to tak zwane *obrazy dysków*. Z obrazami jednak nie ma za wiele wspólnego. W dużym skrócie powstały na potrzeby kopiowania DVD/CD do plików (nie tylko tych z systemami), żeby potem *włożyć je* wirtualnie, ale z czasem, łatwiej było pobrać taki plik niż znaleźć go wśród sterty płyt. Dla wygody, do dziś nie zmieniono tego rozszerzenia.
 
 ## Windows
 
@@ -55,7 +55,7 @@ Na ratunek przychodzi
 | Custom ISO | - Wzorowa wydajność<br>- Możliwie maksymalna prywatność<br>- Minimalna ilość domyślnych programów<br>- Mała wielkość systemu<br>- Szybkość przygotowania                                | - Bezpieczeństwo (więcej poniżej)<br>- Możliwe trudności w znalezieniu odpowiedniego<br>- W zależności od wyboru, możliwa niestabilność na niektórych komputerach<br>- Częstotliwość aktualizacji (Samego systemu, nie antywirusa itp.) |
 
 {: .warning }
-Custom ISO uważane są za kontrowersyjne z jednego prostego powodu. Nie wiadomo co dokładnie instalujemy. Nie mają one kodu źródłowego który można sprawdzić i właśnie dlatego pomimo zabezpieczeniem się przed śledzeniem ze strony Microsoftu, nie wykluczone, że nie będziemy śledzeni z innej strony. Osobiście używam Revision OS i do tej pory nie miałem z nim żadnych problemów, jednak proszę, **upewnij się, że możesz ufać twórcom swojego systemu**.
+> Custom ISO uważane są za kontrowersyjne z jednego prostego powodu. Nie wiadomo co dokładnie instalujemy. Nie mają one kodu źródłowego który można sprawdzić i właśnie dlatego pomimo zabezpieczeniem się przed śledzeniem ze strony Microsoftu, nie wykluczone, że nie będziemy śledzeni z innej strony. Osobiście używam Revision OS i do tej pory nie miałem z nim żadnych problemów, jednak proszę, **upewnij się, że możesz ufać twórcom swojego systemu**.
 
 {: .note}
 > Z tego właśnie konkretnego powodu powstały Playbook'i. Są bardziej ograniczone jeżeli chodzi o możliwości, ale za to możemy sprawdzić co dokładnie będzie działo się w naszym systemie i często możemy też personalizować swoje ustawienia.
@@ -65,6 +65,6 @@ Custom ISO uważane są za kontrowersyjne z jednego prostego powodu. Nie wiadomo
 Wracasz sobie po ciężkim dniu do domu, siadasz przed komputer żeby przejrzeć jedyną kopię zdjęć z tej jednej wycieczki, włączasz go a to nagle... ***nic***. Nie daje znaku życia/sam się restartuje/zawiesza się w losowym momencie. Na szczęście wielkie głowy tworzące wszelakie linux`y umożliwiają uruchomienie go bez żadnej instalacji. Magia, wiem. Co prawda wszelkie zmiany zostaną stracone po zwykłym restarcie komputera, ale dla awaryjnego wrzucenia zdjęć do chmury albo innego dysku czy pendrive'a, będzie idealny.
 
 {: .info }
-Niewykluczone, że nie był to pomysł *tego głupiego komputera* albo pecha żeby popsuć Ci dzień. Dyski (tak samo jak inne podzespoły) się zużywają. Jeżeli po tym poradniku problem dalej będzie się pojawiać, polecam użyć programu [CrystalDiskInfo](https://crystalmark.info/en/download/#CrystalDiskInfo). Pomoże on w sprawdzeniu stanu dysku.
+> Niewykluczone, że nie był to pomysł *tego głupiego komputera* albo pecha żeby popsuć Ci dzień. Dyski (tak samo jak inne podzespoły) się zużywają. Jeżeli po tym poradniku problem dalej będzie się pojawiać, polecam użyć programu [CrystalDiskInfo](https://crystalmark.info/en/download/#CrystalDiskInfo). Pomoże on w sprawdzeniu stanu dysku.
 
 Masz swojego kandydata? Wiesz już czego potrzebujesz? Super! [Idziemy dalej](ventoy)

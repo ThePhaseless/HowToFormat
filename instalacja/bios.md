@@ -10,7 +10,7 @@ nav_order: 1
 BIOS. Brzmi tajemniczo... Ale to bez znaczenia. Nie będziemy w nim i tak za długo siedzieli.
 
 {: .note}
-BIOS (basic input/output system), czy w tych czasach UEFI (Unified Extensible Firmware Interface), jest to najbardziej podstawowe oprogramowanie na naszym komputerze. Odpowiada on za praktycznie wszystko. Od obliczania ile amper podać dla procesora tak, aby się nie spalił aż do sterowania prędkością wentylatorów.
+> BIOS (basic input/output system), czy w tych czasach UEFI (Unified Extensible Firmware Interface), jest to najbardziej podstawowe oprogramowanie na naszym komputerze. Odpowiada on za praktycznie wszystko. Od obliczania ile amper podać dla procesora tak, aby się nie spalił aż do sterowania prędkością wentylatorów.
 
 Jedyne, co musimy w nim zmienić to kolejność wczytywania dysków w komputerze. **Podłączamy więc naszego pendrive'a z Ventoy'em do czyszczonego** oraz uruchamiamy <https://google.com>.
 

@@ -21,13 +21,13 @@ Wybieramy naszą kupioną ~~lub nie~~ wersję systemu, zaznaczamy **Custom Insta
 W tym momencie powinieneś widzieć swoje wszystkie partycje.
 
 {: .info}
-Partycja - wirtualna "część dysku". Potraktuj je jako bardziej zaawansowanych folderach na pliki
+> Partycja - wirtualna "część dysku". Potraktuj je jako bardziej zaawansowanych folderach na pliki
 
 {: .note}
-Dla osób które mają więcej niż jeden dysk i chcą przeinstalować system na ten sam dysk, zanim zaczniemy usuwanie, zapisz sobie numer dysku, który ma najwięcej partycji, bo to najprawdopodobniej ten, który ma stary system.
+> Dla osób które mają więcej niż jeden dysk i chcą przeinstalować system na ten sam dysk, zanim zaczniemy usuwanie, zapisz sobie numer dysku, który ma najwięcej partycji, bo to najprawdopodobniej ten, który ma stary system.
 
 {: .warning}
-Następny krok usunie wszystkie dane z wybranej partycji, więc uważaj którą usuwasz. Odzyskanie danych z takiej partycji graniczy z cudem.
+> Następny krok usunie wszystkie dane z wybranej partycji, więc uważaj którą usuwasz. Odzyskanie danych z takiej partycji graniczy z cudem.
 
 Teraz usuwamy guzikiem *Delete* **wszystkie** partycje z dysku, który ma w sobie partycję *Windows*.
 
@@ -36,7 +36,7 @@ Po wszystkim powinniśmy mieć coś tym stylu (może być też po angielsku):
 `Dysk *jakiś numerek* Nieprzypisane miejsce`
 
 {: .note}
-Nie powinno być również innych partycji z tym samym numerkiem dysku co *Nieprzypisane miejsce*!
+> Nie powinno być również innych partycji z tym samym numerkiem dysku co *Nieprzypisane miejsce*!
 
 ## Instalacja
 

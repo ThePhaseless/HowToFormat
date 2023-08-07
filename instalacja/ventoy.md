@@ -30,4 +30,4 @@ Używając Enter i strzałek, zaznacz kolejne kroki:
 > Na ten sam dysk, do którego wcześniej wrzucaliśmy pliki.
 
 {: .info}
-Jeżeli pobrałeś też linux'a, to zanim usuniemy wszystko z twojego dysku, przejdź przez [odzyskiwanie plików](odzyskiwanie)
+> Jeżeli pobrałeś też linux'a, to zanim usuniemy wszystko z twojego dysku, przejdź przez [odzyskiwanie plików](odzyskiwanie)

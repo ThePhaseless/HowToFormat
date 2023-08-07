@@ -28,6 +28,6 @@ Wchodzimy w zakładkę **Download** i wybieramy hosting obrazu (najlepiej `MEGA`
 Używając wybranej strony, pobieramy obraz i wrzucamy go do nowego dysku `Ventoy`.
 
 {: .info }
-To dobry moment, żeby zrobić kopię zapasową lub upewnić się, że wszystko zostało zabezpieczone a dla osób z potrzebą odzyskania plików z uszkodzonego systemu zachęcam do [pobrania Linux'a](../linux).
+> To dobry moment, żeby zrobić kopię zapasową lub upewnić się, że wszystko zostało zabezpieczone a dla osób z potrzebą odzyskania plików z uszkodzonego systemu zachęcam do [pobrania Linux'a](../linux).
 
 Gdy wszystko gotowe, możemy zacząć [instalację](../../install).

@@ -19,7 +19,7 @@ Szukamy jednego z programów:
 - Terminal *(zalecane)*
 - PowerShell
 
-{: .note-title }
+{: .note}
 > Technicznie rzecz biorąc, Terminal uruchomi PowerShell'a, ale za to będzie o wiele ładniej wyglądać!
 
 Użycie polega na tym:
@@ -33,7 +33,24 @@ Na przykład:
 - `winget pin discord.discord` - powstrzymuje aktualizacje Discord'a
 - `winget` - wszystkie pozostałe polecenia ;)
 
-### Paczka programów
+## Paczka programów
 
 Dla chętnych, oto moja paczka programów:
 [Pobierz](/winget.json)
+
+{: .note }
+> Listę programów które są na liście możemy sprawdzić wchodząc w ten plik i po prostu patrząc co jest na liście. Możemy usunąć też te niepotrzebne usuwając je **włącznie z nawiasami i przecinkiem na końcu**. Usuwamy coś takiego:
+
+``` json
+{
+     "PackageIdentifier" : "twórca.program"
+},
+```
+
+Aby jej użyć, pobieramy, włączamy konsolę i wpisujemy `winget import`, dajemy spację żeby oddzielić od pliku, i żeby nie musieć przepisywać lokalizacji pliku, możemy po prostu skopiować plik i wkleić go do konsoli. Pojawi się wtedy ścieszka do pliku. Na przykład:
+`winget import C:/winget.json`
+
+Klikamy enter i czekamy aż wszystko się ściągnie.
+
+{: .note }
+> Możesz tworzyć swoje własne paczki, możemy użyć komendy `winget export *ścieżka pliku*`. We wskazanym miejscu pojawi się plik z waszą paczką!
