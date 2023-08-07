@@ -54,4 +54,4 @@ Aby upewnić się, że wszystko jest dobrze, możesz sprawdzić menadżer urząd
 {: .info}
 > Zalecam również zerknąć na [listę zalecanych programów](apps).
 
-Jeżeli jednak nie
+Jeżeli jednak nie, to możesz przejść do [naszej ostatniej wspólnej strony](goodbye).
