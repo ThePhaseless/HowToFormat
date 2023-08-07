@@ -25,7 +25,7 @@ Tworzyłem ten poradnik z myślą, że osoba czytająca ten poradnik nie jest po
 {: .warning }
 > Czerwonych natomiast sugeruje nie ignorować.
 
-> Zwykły tekst zawiera natomiast... zwykły tekst. Byłoby miło jakbyś to też czytał/a.
+Zwykły tekst zawiera natomiast... zwykły tekst. Byłoby miło jakbyś to też czytał/a.
 
 ## Co, jak, gdzie i kiedy?
 
