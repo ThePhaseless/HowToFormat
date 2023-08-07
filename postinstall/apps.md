@@ -54,3 +54,21 @@ Klikamy enter i czekamy aż wszystko się ściągnie.
 
 {: .note }
 > Możesz tworzyć swoje własne paczki, możemy użyć komendy `winget export *ścieżka pliku*`. We wskazanym miejscu pojawi się plik z waszą paczką!
+
+## [WingetUI](https://github.com/marticliment/WingetUI)
+
+To samo co wyżej, tylko tak szczerze używalne. Auto aktualizacje, więcej źródeł domyślnych i tak szczerze ładny interfejs. Jest u mnie w paczce, ale jeżeli jej nie używasz, to zrobisz to komendą `winget install SomePythonThings.WingetUIStore`.
+[Screenshot'y](https://github.com/marticliment/WingetUI#screenshots)
+
+## Cała reszta
+
+Nie jestem wielkim fanem instalowania tony programów. Dlatego więc całą resztę możesz dostosować do siebie.
+
+{: .warning}
+> Pamiętaj tylko, żeby ***NIE*** instalować żadnych programów typu:
+>
+> - Automatycznie instalujące sterowniki, np: *Driver booster*
+> - Przyspieszacze i naprawiacze komputerów
+> - Darmowe antywirusy
+
+Jeżeli masz już wszystko, czego potrzebowałeś, zapraszam na [ostatnią stronę](goodbye).
