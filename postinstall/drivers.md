@@ -4,7 +4,7 @@ title: Sterowniki
 parent: Po instalacji
 nav_order: 1
 ---
-
+<!-- markdownlint-disable MD025 -->
 # Sterowacze? Sterowki? Sterowniczki?
 
 W zależności od twojej konfiguracji, będziesz potrzebować innych, ale na szczęście masz mnie i ten poradnik.
