@@ -2,6 +2,8 @@ title: Jak to format?
 description: Tutorial dla osób czyszczących PC z windowsem
 theme: just-the-docs
 
+color_scheme: dark
+
 url: https://wiki.fireword.xyz
 repository: ThePhaseless/HowToFormat
 
@@ -27,7 +29,3 @@ callouts:
   info:
     title: Informacja
     color: yellow
-
-last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
-last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
-

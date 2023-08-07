@@ -60,6 +60,22 @@ Klikamy enter i czekamy aż wszystko się ściągnie.
 To samo co wyżej, tylko tak szczerze używalne. Auto aktualizacje, więcej źródeł domyślnych i tak szczerze ładny interfejs. Jest u mnie w paczce, ale jeżeli jej nie używasz, to zrobisz to komendą `winget install SomePythonThings.WingetUIStore`.
 [Screenshot'y](https://github.com/marticliment/WingetUI#screenshots)
 
+## [Bitwarden](https://bitwarden.com/)
+
+Bitwarden to menadżer haseł. Po co zapominać hasła żeby tracić dostęp do jednej strony, skoro możesz do wszystkich! Jest to program open-source, więc darmowy. A to zawsze uczciwa cena. Jest też (strasznie tania swoją drogą) wersja premium, która dodaje więcej funkcji (np: kody 2fa) oraz wspomaga twórców. Możesz go pobrać z [oficjalnej strony](https://bitwarden.com/download/). Dostępny na wszystkie platformy i przeglądarki z funkcją synchronizacji i automatycznego wypełniania haseł.
+
+## [7zip](https://www.7-zip.org/)
+
+Program do rozpakowywania plików. Jest to program, który jest w stanie rozpakować ***wszystko***. Nie ma znaczenia czy to jest `.zip`, `.rar`, `.7z` czy `.tar.gz`.
+
+## [Dark reader](https://darkreader.org/)
+
+Dodatek do przeglądarek, który zmienia strony na ciemne. Nie jest to jednak zwykłe odwrócenie kolorów, tylko inteligentne przetwarzanie stron. Działa na wszystkich przeglądarkach, które mają dostępne dodatki.
+
+## [uBlock Origin](https://ublockorigin.com/pl)
+
+Najlepszy Adblock na Ziemi.
+
 ## Cała reszta
 
 Nie jestem wielkim fanem instalowania tony programów. Dlatego więc całą resztę możesz dostosować do siebie.
