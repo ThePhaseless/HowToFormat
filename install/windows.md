@@ -12,7 +12,9 @@ Wszystkie kroki są takie same niezależnie od rodzaju naszego systemu.
 
 Zaznaczamy nasz plik `.iso` z instalatorem wybranego systemu i czekamy chwilkę.
 
-Następnie klikamy kontynuuj, wybieramy naszą kupioną ~~lub nie~~ wersję systemu, zaznaczamy **Custom Install**/**Instalacja niestandardowa** i przechodzimy dalej.
+Następnie klikamy kontynuuj, osoby znające swój kod licencji mogą go wpisać i nacisnąć dalej, a ci, którzy go nie mają lub mają go wpisanego w płytę główną, klikamy *Nie mam kodu produktu*.
+
+Wybieramy naszą kupioną ~~lub nie~~ wersję systemu, zaznaczamy **Custom Install**/**Instalacja niestandardowa** i przechodzimy dalej.
 
 ## Przygotowanie partycji
 

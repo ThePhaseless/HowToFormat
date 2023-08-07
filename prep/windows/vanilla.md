@@ -14,8 +14,8 @@ Bezpieczna, prosta ale też i czasami monotonna droga. Jak Pan Microsoft chciał
 
 Proces cholernie prosty. Wchodzimy w ten link:
 
-- Windows 10: [https://www.microsoft.com/pl-pl/software-download/windows10](https://www.microsoft.com/pl-pl/software-download/windows10)
-- Windows 11: [https://www.microsoft.com/pl-pl/software-download/windows11](https://www.microsoft.com/pl-pl/software-download/windows11)
+- Windows 10: <https://www.microsoft.com/pl-pl/software-download/windows10>
+- Windows 11: <https://www.microsoft.com/pl-pl/software-download/windows11>
 
 ### Windows 10
 
