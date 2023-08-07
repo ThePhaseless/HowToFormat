@@ -17,4 +17,9 @@ Wejdź na [stronę tego projektu](https://github.com/ThePhaseless/HowToFormat/is
 
 To już wszystko... Leć, rozwijaj się, instaluj i psuj. Pamiętaj, że ta strona będzie tu zawsze dla ciebie (i każdego innego).
 
+{: .note-title}
+> Czy wiedziałeś, że?
+>
+> 100% twórców tego poradnika spędziło czas na pisaniu tego poradnika, zamiast robić coś pożytecznego. W tym czasie mogli zrobić coś pożytecznego, ale nie zrobili. Zamiast tego, zrobili to. Czy to jest pożyteczne? Nie wiem. Ale jest. I to jest ważne.
+
 **Cześć!**
