@@ -1,11 +1,11 @@
 ---
-front_matter_title: 
+front_matter_title: ""
 nav_order: 1
 layout: home
-front_matter_title: Pora zacząć
+title: Pora zacząć
 ---
-
-# Jak zrobić format komputera?
+<!-- markdownlint-disable MD025 -->
+# Pora zacząć
 
 Witaj, jesteś tu prawdopodobnie, bo postanowiłeś **w końcu** zrobić twardy reset komputera/laptopa. Jesteś w dobrym miejscu! Ten poradnik pomoże Ci przywrócić _dawny blask_ twojego sprzętu. Życzę przyjemnej podróży.
 

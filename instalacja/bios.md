@@ -4,7 +4,7 @@ title: Wchodzenie do BIOS'a
 parent: Instalacja
 nav_order: 1
 ---
-
+<!-- markdownlint-disable MD025 -->
 # Wchodzenie do BIOS'a
 
 BIOS. Brzmi tajemniczo... Ale to bez znaczenia. Nie będziemy w nim i tak za długo siedzieli.

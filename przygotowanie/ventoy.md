@@ -4,7 +4,7 @@ title: Ventoy
 parent: Przygotowanie
 nav_order: 3
 ---
-
+<!-- markdownlint-disable MD025 -->
 # Pobieranie i instalowanie Ventoy'a
 
 A zatem wiadomo już *co*, następne pytanie to
@@ -34,6 +34,6 @@ Następny krok spowoduje usunięcie plików z pendrive'a **nieodwracalnie**. Upe
 
 Pozostało nacisnąć `Install`, potwierdzić ~~sprzedaż duszy~~ 2 razy i patrzeć jak wszystko dzieje się za nas.
 
-Po chwili wszystko powinno być gotowe! Sprawdź czy widzisz nowy dysk o nazwie `Ventoy` w eksploratorze plików. 
+Po chwili wszystko powinno być gotowe! Sprawdź czy widzisz nowy dysk o nazwie `Ventoy` w eksploratorze plików.
 
 Tak? No to [pora na system(y)!](windows)

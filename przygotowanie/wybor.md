@@ -5,11 +5,12 @@ parent: Przygotowanie
 nav_order: 2
 ---
 
+<!-- markdownlint-disable MD025 -->
 # Przygotowanie programów i systemu
 
 Programy, systemy i skrypty. Może brzmieć przerażająco, ale jeżeli jednak to twój komputer ma się bać Ciebie, a nie na odwrót, to zachęcam do czytania wyjaśnień co właściwie będziemy robili i ewentualnie co jeszcze jesteśmy w stanie zrobić dodatkowo.
 
-### Ventoy
+## Ventoy
 
 Dla spójności, wygody oraz kompatybilności z linux`em, będziemy używać [Ventoy'a](https://www.ventoy.net/en/index.html).
 
@@ -21,7 +22,7 @@ Dla spójności, wygody oraz kompatybilności z linux`em, będziemy używać [Ve
 {: info}
 Pliki `.iso` to tak zwane *obrazy dysków*. Z obrazami jednak nie ma za wiele wspólnego. W dużym skrócie powstały na potrzeby kopiowania DVD/CD do plików (nie tylko tych z systemami), żeby potem *włożyć je* wirtualnie, ale z czasem, łatwiej było pobrać taki plik niż znaleźć go wśród sterty płyt. Dla wygody, do dziś nie zmieniono tego rozszerzenia.
 
-### Windows
+## Windows
 
 Teraz musimy wybrać co właściwie będziemy instalować. Do wyboru mamy:
 
@@ -44,7 +45,8 @@ Różnią się one sposobem instalacji. Custom ISO jest instaluje już zmodyfiko
 
 Na ratunek przychodzi
 
-#### Moja **super** tabelka
+### Moja **super** tabelka
+<!-- markdownlint-disable MD033 -->
 
 | Typ        | Zalety                                                                                                                                                                                  | Wady                                                                                                                                                                                                                                    |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -58,7 +60,7 @@ Custom ISO uważane są za kontrowersyjne z jednego prostego powodu. Nie wiadomo
 {: .note}
 > Z tego właśnie konkretnego powodu powstały Playbook'i. Są bardziej ograniczone jeżeli chodzi o możliwości, ale za to możemy sprawdzić co dokładnie będzie działo się w naszym systemie i często możemy też personalizować swoje ustawienia.
 
-### Opcjonalne: Linux na ratunek dla straconych plików!
+## Opcjonalne: Linux na ratunek dla straconych plików
 
 Wracasz sobie po ciężkim dniu do domu, siadasz przed komputer żeby przejrzeć jedyną kopię zdjęć z tej jednej wycieczki, włączasz go a to nagle... ***nic***. Nie daje znaku życia/sam się restartuje/zawiesza się w losowym momencie. Na szczęście wielkie głowy tworzące wszelakie linux`y umożliwiają uruchomienie go bez żadnej instalacji. Magia, wiem. Co prawda wszelkie zmiany zostaną stracone po zwykłym restarcie komputera, ale dla awaryjnego wrzucenia zdjęć do chmury albo innego dysku czy pendrive'a, będzie idealny.
 
