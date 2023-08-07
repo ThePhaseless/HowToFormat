@@ -12,4 +12,6 @@ Komputer zaraz powinien się zrestartować. Dobra rada:
 {: .info}
 > Jeżeli komputer podczas konfiguracji nie wykrywa wifi ani kabla do internetu, możesz użyć swojego telefonu włączając opcję *USB Tethering*.
 
+Dla osób, które chcą użyć playbook'a, zapraszam na [tą stronę](playbook).
+
 Z resztą konfiguracji powinieneś poradzić sobie sam, ale zaraz po tym, proponuję zainstalować:

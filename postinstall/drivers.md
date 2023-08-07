@@ -2,7 +2,7 @@
 layout: default
 title: Sterowniki
 parent: Po instalacji
-nav_order: 1
+nav_order: 2
 ---
 <!-- markdownlint-disable MD025 -->
 # Sterowacze? Sterowki? Sterowniczki?
@@ -35,7 +35,7 @@ Tutaj sprawa jest łatwa, bo instalatory instalują wszystko same. Linki do ster
 
 Jeżeli mamy procesor od tego samego producenta, co karta graficzna, to nie musimy nic więcej robić. W innym przypadku korzystamy z powyższych linków aby zainstalować pozostałe kluczowe sterowniki.
 
-## Cała reszta
+## Pozostałe podzespoły
 
 {: .warning}
 > One również!
