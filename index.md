@@ -2,7 +2,7 @@
 front_matter_title: ""
 nav_order: 1
 layout: home
-title: Pora zacząć
+title: Wstęp
 ---
 <!-- markdownlint-disable MD025 -->
 # Pora zacząć
@@ -21,11 +21,12 @@ Tworzyłem ten poradnik z myślą, że osoba czytająca ten poradnik nie jest po
 {: .info }
 > Te będą zawierać ważniejsze informacje albo odnośniki do różnych [podstron](/cotyturobisz).
 
+<!-- markdownlint-disable MD028 -->
 {: .warning }
 > Czerwonych natomiast sugeruje nie ignorować.
 
-Zwykły tekst zawiera natomiast... zwykły tekst. Byłoby miło jakbyś to też czytał/a.
+> Zwykły tekst zawiera natomiast... zwykły tekst. Byłoby miło jakbyś to też czytał/a.
 
 ## Co, jak, gdzie i kiedy?
 
-Koniec tego flexowania się kolorowymi prostokątami. [Zaczynamy](przygotowanie)
+Koniec tego flexowania się kolorowymi prostokątami. [Zaczynamy](prep)

@@ -19,4 +19,4 @@ Sprawdźmy wpierw sprzęt. Będziesz potrzebować:
 - Dostęp do internetu
 - ~~stoper do mierzenia straconego czasu~~
 
-Gdy masz już cały sprzęt, pora na [jakieś programy](wybor).
+Gdy masz już cały sprzęt, pora na [jakieś programy](stuff).
