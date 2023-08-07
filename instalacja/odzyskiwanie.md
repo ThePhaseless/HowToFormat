@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Używanie Ventoy'a
+title: Odzyskiwanie plików
 parent: Instalacja
 nav_order: 2
 ---

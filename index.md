@@ -1,14 +1,15 @@
 ---
-title: Pora zacząć
+front_matter_title: 
 nav_order: 1
 layout: home
+front_matter_title: Pora zacząć
 ---
 
-## Jak zrobić format komputera?
+# Jak zrobić format komputera?
 
 Witaj, jesteś tu prawdopodobnie, bo postanowiłeś **w końcu** zrobić twardy reset komputera/laptopa. Jesteś w dobrym miejscu! Ten poradnik pomoże Ci przywrócić _dawny blask_ twojego sprzętu. Życzę przyjemnej podróży.
 
-### Jak właściwie mam to czytać?
+## Jak właściwie mam to czytać?
 
 Tworzyłem ten poradnik z myślą, że osoba czytająca ten poradnik nie jest pod groźbą śmierci i ma na to więcej czasu niż totalne minimum. Zakładałem jednak, że czytelnik posiada choć szczątkowe umiejętności ~~dedukcji~~ googlowania, ale bez większego doświadczenia z komputerami. Jednakże wiem też, że nie wszyscy są zainteresowani klocami tekstu, więc podzieliłem je na kategorie:
 
@@ -25,6 +26,6 @@ Tworzyłem ten poradnik z myślą, że osoba czytająca ten poradnik nie jest po
 
 Zwykły tekst zawiera natomiast... zwykły tekst. Byłoby miło jakbyś to też czytał/a.
 
-### Co, jak, gdzie i kiedy?
+## Co, jak, gdzie i kiedy?
 
 Koniec tego flexowania się kolorowymi prostokątami. [Zaczynamy](przygotowanie)
