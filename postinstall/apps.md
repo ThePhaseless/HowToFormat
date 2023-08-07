@@ -38,6 +38,8 @@ Na przykład:
 Dla chętnych, oto moja paczka programów:
 [Pobierz](/winget.json)
 
+Aby pobrać, kliknij prawym przyciskiem myszy i wybierz `Zapisz jako...` lub `Save as...`. Zapisz plik w dowolnym miejscu lub klikając ctrl+s.
+
 {: .note }
 > Listę programów które są na liście możemy sprawdzić wchodząc w ten plik i po prostu patrząc co jest na liście. Możemy usunąć też te niepotrzebne usuwając je **włącznie z nawiasami i przecinkiem na końcu**. Usuwamy coś takiego:
 
@@ -48,7 +50,8 @@ Dla chętnych, oto moja paczka programów:
 ```
 
 Aby jej użyć, pobieramy, włączamy konsolę i wpisujemy `winget import`, dajemy spację żeby oddzielić od pliku, i żeby nie musieć przepisywać lokalizacji pliku, możemy po prostu skopiować plik i wkleić go do konsoli. Pojawi się wtedy ścieszka do pliku. Na przykład:
-`winget import C:/winget.json`
+
+`winget import "C:/winget.json"`
 
 Klikamy enter i czekamy aż wszystko się ściągnie.
 
@@ -57,7 +60,9 @@ Klikamy enter i czekamy aż wszystko się ściągnie.
 
 ## [WingetUI](https://github.com/marticliment/WingetUI)
 
-To samo co wyżej, tylko tak szczerze używalne. Auto aktualizacje, więcej źródeł domyślnych i tak szczerze ładny interfejs. Jest u mnie w paczce, ale jeżeli jej nie używasz, to zrobisz to komendą `winget install SomePythonThings.WingetUIStore`.
+To samo co wyżej, tylko tak szczerze używalne. Auto aktualizacje, więcej źródeł domyślnych i tak szczerze ładny interfejs. Jest u mnie w paczce, ale jeżeli jej nie używasz, to zrobisz to komendą:
+
+`winget install SomePythonThings.WingetUIStore`.
 [Screenshot'y](https://github.com/marticliment/WingetUI#screenshots)
 
 ## [Bitwarden](https://bitwarden.com/)
@@ -86,5 +91,7 @@ Nie jestem wielkim fanem instalowania tony programów. Dlatego więc całą resz
 > - Automatycznie instalujące sterowniki, np: *Driver booster*
 > - Przyspieszacze i naprawiacze komputerów
 > - Darmowe antywirusy
+>
+> Są to programy, które nie działają, a jedynie szkodzą komputerowi. Windows Defender od długiego czasu jest wystarczający, a jeżeli chcesz coś lepszego, to możesz kupić płatne antywirusy.
 
 Jeżeli masz już wszystko, czego potrzebowałeś, zapraszam na [ostatnią stronę](goodbye).
