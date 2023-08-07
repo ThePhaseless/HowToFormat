@@ -17,7 +17,9 @@ Dla spójności, wygody oraz kompatybilności z linux`em, będziemy używać [Ve
 {: .note-title }
 > Czym jest ten Ventoy?
 >
-> A no jest to "pseudo system", który można zainstalować na nośnikach (w tym przypadku na pendrive'ie), umożliwiający uruchamianie ***prawie*** wszystkich plików `.iso` (w tym instalatorów systemów). Wyjaśnienie dlaczego używamy akurat tego [tutaj](/info/ventoy).
+> A no jest to "pseudo system", który można zainstalować na nośnikach (w tym przypadku na pendrive'ie), umożliwiający uruchamianie ***prawie*** wszystkich plików `.iso` (w tym instalatorów systemów). Dlaczego Ventoy a nie po prostu instalować system na pendrive? Ponieważ Ventoy jest w stanie zainstalować wiele systemów na jednym pendrive'ie, a także nie trzeba go formatować, żeby zainstalować kolejny system. Wystarczy wrzucić plik `.iso` i po robocie.
+
+{: .note }
 
 {: info }
 > Pliki `.iso` to tak zwane *obrazy dysków*. Z obrazami jednak nie ma za wiele wspólnego. W dużym skrócie powstały na potrzeby kopiowania DVD/CD do plików (nie tylko tych z systemami), żeby potem *włożyć je* wirtualnie, ale z czasem, łatwiej było pobrać taki plik niż znaleźć go wśród sterty płyt. Dla wygody, do dziś nie zmieniono tego rozszerzenia.
