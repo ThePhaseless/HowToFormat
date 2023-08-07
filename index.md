@@ -22,6 +22,7 @@ Tworzyłem ten poradnik z myślą, że osoba czytająca ten poradnik nie jest po
 > Te będą zawierać ważniejsze informacje albo odnośniki do różnych [podstron](/cotyturobisz).
 
 <!-- markdownlint-disable MD028 -->
+
 {: .warning }
 > Czerwonych natomiast sugeruje nie ignorować.
 
